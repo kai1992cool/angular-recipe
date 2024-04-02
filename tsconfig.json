@@ -8,6 +8,7 @@
     "noImplicitOverride": true,
     "noPropertyAccessFromIndexSignature": true,
     "noImplicitReturns": true,
+    "strictPropertyInitialization": false,
     "noFallthroughCasesInSwitch": true,
     "skipLibCheck": true,
     "esModuleInterop": true,
@@ -23,6 +24,7 @@
       "ES2022",
       "dom"
     ]
+
   },
   "angularCompilerOptions": {
     "enableI18nLegacyMessageIdFormat": false,
